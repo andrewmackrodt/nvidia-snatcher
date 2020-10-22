@@ -172,6 +172,7 @@ Here is a list of variables that you can use to customize your newly copied `.en
 | Aria PC | `aria`|
 | ASUS | `asus` |
 | ASUS (DE) | `asus-de` |
+| AWD-IT | `awd`|
 | Azerty | `azerty`|
 | B&H | `bandh`|
 | Best Buy | `bestbuy`|
